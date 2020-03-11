@@ -1,6 +1,5 @@
 # ConflictExample
 
 aaa
-
 bbb
 ccc
